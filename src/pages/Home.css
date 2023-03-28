@@ -1,0 +1,39 @@
+.search{
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.searchbar{
+    text-align: center;
+    height: 3rem;
+    width: 50%;
+}
+.Home{
+    min-height: 100vh;
+    position: relative;
+    overflow: hidden;
+    color: aliceblue;
+    background-color: rgb(191, 55, 191);
+    text-align: center;
+}
+.trends{
+   
+    padding-top: 1rem;
+   font-weight:600;
+   
+}
+.searchbar{
+    width: 50%;
+    height: 2rem;
+}
+.head{
+    font-size: 3rem;
+}
+.trendslink{
+    text-decoration: none;
+    color: white;
+    font-size: 2rem;
+    text-align: center;
+}

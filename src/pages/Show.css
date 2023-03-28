@@ -1,0 +1,15 @@
+.Show{
+    display: flex;
+    padding-left: 15rem;
+    border: 3px solid black;
+    background-color: rgb(192, 177, 177);
+    color: white;
+
+}
+.data{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    
+}
